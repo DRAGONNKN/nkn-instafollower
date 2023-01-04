@@ -3,11 +3,12 @@
 #COMMAND 
        
 
-    git clone https://github.com/DRAGONNKN/ipDragon.git
+    git clone https://github.com/DRAGONNKN/nkn-instafollower.git
      
-       Cd ipDragonn
+       Cd nkn-instafollower
        
-       Python3 ipDragonn.py
+       bash nkn-instafollower.sh
+      
    
 
  
